@@ -45,8 +45,7 @@ To deploy your own version:
 
 For custom development or collaboration:
 
-📧 Email: [your-agency-email@example.com]  
-🌍 Website: [your-agency-site.com] *(optional)*
+📧 Email: [jihadalibrahimm@gmail.com]  
 
 ---
 
